@@ -1,5 +1,6 @@
 # Sublime-Text
 1.Download and configure by Dhruvo's mainscript.sh
+
 2. Preferences > settings > syntax specific >
 
 {
