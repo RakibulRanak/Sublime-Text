@@ -21,10 +21,10 @@
 
 
 
-*ctrl+shift+p for menu
-*toggle view in bar hide , f11 to full screen
+11. ctrl+shift+p for menu
+12. toggle view in bar hide , f11 to full screen
 
-*(ctrl + `) for terminal
+13. (ctrl + `) for terminal
 
-* for default layout -> 
+14. for default layout -> 
 window.set_layout({'cols': [0.0, 0.7, 2.0], 'cells': [[0, 0, 1, 2], [1, 0, 2, 1], [1, 1, 2, 2]], 'rows': [0.0, 0.5, 1.0]})
